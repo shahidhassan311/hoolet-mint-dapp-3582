@@ -1,10 +1,8 @@
-Here's a draft of the README file for your domain, `https://mint.hoolet.io/`:
-
 ---
 
 # Hoolet Mint Platform
 
-Welcome to the Hoolet Mint Platform!
+Welcome to the **Hoolet Mint Platform**, accessible at [https://mint.hoolet.io/](https://mint.hoolet.io/).
 
 ## Overview
 
@@ -23,6 +21,8 @@ The Hoolet Mint Platform is designed to provide seamless NFT minting experiences
 1. **Connect Wallet**: Start by connecting your Solana wallet to the platform.
 2. **Mint NFTs**: Use the minting functionality to create your NFTs.
 3. **Manage NFTs**: Once minted, you can view and manage your NFTs through the platform.
+
+Visit [https://mint.hoolet.io/](https://mint.hoolet.io/) to get started.
 
 ## Installation
 
@@ -61,4 +61,3 @@ Feel free to open issues and submit pull requests on the GitHub repository. Plea
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
-
